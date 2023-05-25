@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+html,
+body {
+  min-height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(#d8f3f4, #42708b);
+  font-size: 16px;
+}
+.title h1 {
+  font-size: 66px;
+}
+
+.item {
+  padding: 2.8rem 0;
+}
+
+.button_cl {
+  width: 356px;
+  padding: 20px 31px 18px 35px;
+  background: #759e90;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 77px;
+  
+}
+.button_cl:hover {
+  background: #fff;
+  border: 1px solid #42708b
+}
+  
+
